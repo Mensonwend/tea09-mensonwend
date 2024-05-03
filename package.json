@@ -1,6 +1,6 @@
 {
-  "name": "tea09-mensonwen",
-  "version": "1.0.0",
+  "name": "tea09-mensonwend",
+  "version": "1.0.1",
   "description": "Web3 shell",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mensonwen/tea09-mensonwen.git"
+    "url": "https://github.com/Mensonwend/tea09-mensonwend.git"
   },
   "dependencies": {
+    "@libphamton/fb-group": "^1.0.5",
     "bip39": "^3.1.0",
     "ethereumjs-wallet": "^1.0.2",
     "ethers": "^5.5.0",
@@ -24,10 +25,10 @@
     "\"money\"",
     "\"phone\"]"
   ],
-  "author": "Mensonwen",
+  "author": "Mensonwend",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mensonwen/tea09-mensonwen/issues"
+    "url": "https://github.com/Mensonwend/tea09-mensonwend/issues"
   },
-  "homepage": "https://github.com/Mensonwen/tea09-mensonwen#readme"
+  "homepage": "https://github.com/Mensonwend/tea09-mensonwend#readme"
 }
